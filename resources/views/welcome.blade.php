@@ -4,7 +4,7 @@
   <!-- Required Meta Tags Always Come First -->
   <meta charset="utf-8">
   <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-  <link rel="canonical" href="https://preline.co/">
+  <link rel="canonical" href="https://miasistente.digitaltactico.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Transformamos la forma en que gestionas tu negocio fisico y en línea.">
 
@@ -13,15 +13,15 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Agency Tailwind CSS Template | Preline UI, crafted with Tailwind CSS">
   <meta name="twitter:description" content="Crafted for agencies and studios specializing in web design and development.">
-  <meta name="twitter:image" content="https://preline.co/assets/img/og-image.png">
+  <meta name="twitter:image" content="https://miasistente.digitaltactico.com/assets/img/og-image.png">
 
-  <meta property="og:url" content="https://preline.co/">
+  <meta property="og:url" content="https://miasistente.digitaltactico.com/">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Preline">
   <meta property="og:title" content="miAsistente | DigitalTactico">
   <meta property="og:description" content="Transformamos la forma en que gestionas tu negocio fisico y en línea.">
-  <meta property="og:image" content="https://preline.co/assets/img/og-image.png">
+  <meta property="og:image" content="https://miasistente.digitaltactico.com/assets/img/og-image.png">
 
   <!-- Title -->
   <title>miAsistente | DigitalTactico</title>
@@ -45,7 +45,7 @@
   </script>
 
   <!-- CSS Preline -->
-  <link rel="stylesheet" href="https://preline.co/assets/css/main.css?v=3.0.0">
+  <link rel="stylesheet" href="https://miasistente.digitaltactico.com/assets/css/main.css?v=3.0.0">
 </head>
 
 <body class="bg-neutral-900">
@@ -79,7 +79,7 @@
       <!-- Collapse -->
       <div id="hs-navbar-floating-dark" class="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow md:block" aria-labelledby="hs-navbar-floating-dark-collapse">
         <div class="flex flex-col md:flex-row md:items-center md:justify-end gap-y-3 py-2 md:py-0 md:ps-7">
-          <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="https://preline.co/templates/agency/index.html" aria-current="page">Inicio</a>
+          <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="https://miasistente.digitaltactico.com/templates/agency/index.html" aria-current="page">Inicio</a>
           {{-- <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="#">Stories</a>
           <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="#">Reviews</a>
           <a class="pe-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-hidden focus:text-neutral-300" href="#">Approach</a> --}}
