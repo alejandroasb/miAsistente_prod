@@ -44,8 +44,8 @@
     else if (isLightOrAuto && !html.classList.contains('light')) html.classList.add('light');
   </script>
 
-  <!-- CSS Preline -->
-  <link rel="stylesheet" href="https://miasistente.digitaltactico.com/assets/css/main.css?v=3.0.0">
+  <!-- CSS Preline
+  <link rel="stylesheet" href="https://miasistente.digitaltactico.com/assets/css/main.css?v=3.0.0">-->
 </head>
 
 <body class="bg-neutral-900">
